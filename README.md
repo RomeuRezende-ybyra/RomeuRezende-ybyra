@@ -13,7 +13,7 @@ Most of my work is private (I'm building my own SaaS products), but here's what 
 
 ### 🔭 Spravio — Engineering Observability Platform
 A multi-tenant SaaS that connects a team's project-management, code, time-tracking and messaging tools into one dashboard — sprints, issues, PRs, hours and budget — with AI-assisted delivery forecasting and a no-login client portal.
-**14 integrations** (Jira, GitHub, Azure DevOps, Linear, Slack, Claude, and more) · Fastify · Next.js · Prisma · PostgreSQL · BullMQ.
+**14 integrations** (Jira, GitHub, Azure DevOps, Linear, Slack, and more) · AI-assisted delivery forecasting · Fastify · Next.js · Prisma · PostgreSQL · BullMQ.
 👉 **[View the code & architecture →](https://github.com/RomeuRezende-ybyra/spravio-showcase)** *(public, sanitized showcase)*
 
 ### 🎓 WebScola — School Management Platform
@@ -38,7 +38,7 @@ I care about the things that make SaaS survive contact with real users: **multi-
 
 **Backend** · Node.js · NestJS · Fastify · TypeScript · Prisma · PostgreSQL · Redis · BullMQ
 **Frontend** · Next.js · React · React Native · TypeScript · Tailwind CSS
-**AI** · Anthropic Claude · OpenAI · RAG pipelines · multi-agent workflows
+**AI** · LLM integration · RAG pipelines · multi-agent workflows
 **Infra** · Docker · Traefik · self-hosted VPS · GitHub Actions CI/CD
 
 ---
